@@ -1,0 +1,1236 @@
+# parte do voto questão fiscal
+#+OPTIONS:tex:t
+
+** Questão fiscal
+
+*** Versão com figuras
+
+    Muito tem sido dito sobre o "rombo" nas contas públicas causado
+pelos subsídios ao BNDES decorrentes da diferença entre a Selic e a
+TJLP (Taxa de Juros de Longo Prazo).
+    
+    Nas considerações quanto aos pressupostos constitucionais de
+    relevância e urgência da MP 777, o parecer do relator ratifica os
+    argumentos da exposição de motivos da MP, essencialmente focados
+    nas suas supostas implicações fiscais. Assim, o parecer do relator
+    afirma que:
+
+    1. a MP "busca a reversão do déficit primário de mais de 2,5% do
+       PIB para um superávit primário suficiente para estabilizar a
+       dívida;
+    2. a MP insere-se no quadro de outras reformas que buscam reverter
+       a aceleração da dívida pública;
+    3. a medida é indispensável para melhoria dos resultados fiscais.
+    
+    
+    Como evidência dos problemas fiscais decorrentes do atual arranjo
+    institucional que a MP se propõe a desfazer apresenta-se o custo
+    fiscal da TJLP-BNDES alcançaria a cifra de R$ 284,7 bilhões entre
+    os anos de 2007 e 2016 (ver seção do parecer "Impacto sobre as
+    contas públicas", especialmente figura e tabela na página 35). A
+    figura [[fig:fiscal3]] reproduz os dados sobre o total do custo fiscal
+    apresentado no parecer.
+
+    #+NAME: fig:fiscal3
+    #+CAPTION: Custo fiscal líquido como soma de subsídios implícitos e explícitos associados a TJLP-BNDES. Fonte: Parecer MP777 Deputado Betinho Gomes.
+    [[file:fiscal3.png]]
+    
+ Chama a atenção que na análise do impacto fiscal nenhuma menção é
+ feita aos benefícios fiscais da estrutura que se procura
+ desmontar. Estamos diante de inegável desbalanceamento na apreciação
+ da matéria. Entretanto, a necessidade de pesar custos com benefícios
+ fiscais é elementar para que se confirme ou não se o impacto fiscal
+ da estrutura TJLP-BNDES é tal que sua supressão possa beneficiar as
+ contas públicas.
+
+ No que segue fazemos uma análise de custos e benefícios fiscais da
+ TJLP-BNDES. A análise começa com considerações puramente contábeis e
+ depois se estende por questões econômicas quanto ao impacto da
+ TJLP-BNDES sobre o setor privado, e consequentemente, sobre seu
+ provável impacto sobre o pagamentos de impostos pelo setor privado.
+ Ao fim do argumento espera-se que o leitor se convença de que a
+ verdade é o contrário do afirmado no parecer da MP 777, o arranjo
+ TJLP-BNDES gera mais benefício que custos fiscais.
+ 
+ Em primeiro lugar, a análise dos custos fiscais superestima os custos
+ do sistema. Em audiências públicas e artigos de opinião José Roberto
+ Afonso, Felipe Salto, e o Senador José Serra, convincentemente
+ argumentaram que dada a ordenação jurídica do país, mais
+ especificamente, a Constituição Federal, não faz sentido calcular o
+ subsídio associado ao FAT uma vez que os recursos repassados ao BNDES
+ não tem aplicação alternativa. Para ficar claro, a MP 777 não propõe,
+ e nem poderia propor, uma alteração na Constituição. Esse raciocínio
+ não envolve nenhuma revolução da "teoria econômica", como chegaram a
+ argumentar na audiência pública no Rio de Janeiro, mas apenas a
+ consideração mais comezinha de que a análise econômica precisa ser
+ feita considerando as restrições legais vigentes em cada país.
+
+ # não sei se isso é verdade
+ Tão pouco deveria ser ignorado que o argumento acima vem sendo usado
+ há tempos na argumentação em defesa da ação do BNDES na OMC. Sua
+ desconsideração pelo governo implica possíveis desastrosas
+ consequências.
+
+ Quanto à ausente análise dos benefícios fiscais, a primeira
+ consideração que deve ser feita, dado que é a mais elementar, é que o
+ BNDES paga impostos e distribui dividendos para seu acionista único,
+ a União. Atualizados a valores de 2016, o total pago pelo BNDES de
+ 2007 à 2016 correspondeu a R$ $153,2$. Note-se que isso corresponde a
+ mais da metade do custo fiscal apontado pelo relator.
+
+
+ Ainda que elementar do ponto de vista da análise do impacto
+ fiscal, essa não é um consideração trivial. É importante salientar
+ que não são todos os bancos de desenvolvimento que pagam impostos ou
+ distribuem dividendos para seu acionista-governo, como mostra o caso
+ do KfW, o banco de desenvolvimento da Alemanha.
+ 
+ É inexplicável a não consideração desses números no parecer do
+ relator. Depõe contra a qualidade e as intenções do parecer. Para
+ começar, as informações são de fácil acesso e foram amplamente
+ divulgadas recentemente.  Elas constam do "livro verde" do BNDES
+ (tabela 2.7, página 63), diga-se de passagem, com o qual o relator
+ foi presenteado publicamente pelo presidente do BNDES, Paulo Rabello
+ de Castro na audiência pública da Comissão Mista Parlamentar da MP
+ 777 no Rio de Janeiro. Segundo informação divulgada pelo próprio
+ relator em redes sociais, isso aconteceu antes dele se debruçar sobre
+ a tarefa de escrever seu voto. Além disso, na segunda audiência em
+ Brasília o tema foi levantado enfaticamente na exposição do
+ presidente da AFBNDES, Thiago Mitidieri, sem que nenhuma
+ justificativa fosse esboçada.
+
+  Apenas as duas considerações acima, retirar do custo fiscal o FAT e
+ incluir os benefícios fiscais na forma de dividendos e tributo pagos
+ pelo BNDES, chegamos a um custo fiscal quase 6 vezes menor do que o
+ sugerido pelo voto do relator. Ao invés dos R$ $284,7$ bilhões o
+ custo fiscal reduz-se a R$ $49,2$ bilhões em dez anos (ver figura
+ [[fig:fiscal2]] ). Podemos apreciar esse número, total de subsídio ao
+ investimento, num país com baixíssima taxa de investimento, tomando
+ como referência alguns números apresentados pelo próprio relator. O
+ custo anual do Programa Bolsa-Família é de R$ $30$ bilhões, o que
+ significariam R$ $300$ bilhões em dez anos, despesas com a Política
+ Agrícola custam cerca de R$ $20$ bilhões anuais, ou R$ $200$ bilhões
+ em dez anos (p. 34).
+
+ #+NAME: fig:fiscal2
+ #+CAPTION: Análise de Custo e Benefício Fiscal apenas considerando questões contábeis: exclusão do FAT e inclusão do pagamento de tributos e distribuição de dividendos do BNDES para a União.
+ file:fiscal2.png
+ 
+
+ Note-se adicionalmente que parte da consideração dos benefícios
+ fiscais não envolve qualquer hipótese ou modelo, mas a mesma
+ contabilidade com que se calculou o custo fiscal.  Se adicionarmos a
+ esse exercício contábil alguma análise do volume dos impostos pagos
+ pelo setor privado que são induzidos por atividades promovidas pelo
+ BNDES, se verifica que o sistema gerou um custo fiscal líquido, nos
+ últimos 10 anos, negativo (ou um benefício líquido positivo).
+
+
+  Segue uma explicação das principais hipóteses assumidas nas
+  simulações que serão apresentadas. Note-se que as hipóteses foram
+  propositalmente conservadoras, ou seja, tendem a minorar o impacto
+  da atuação do BNDES.
+
+  
+  1. Apenas os desembolsos do BNDES que impactam o Investimento
+     (Formação Bruta de Capital Fixo)
+     
+     Partindo-se dos desembolsos do BNDES, contabilizou-se apenas a
+     proporção desses que tem como finalidade financiar investimentos
+     (formação bruta de capital fixo) pois é a única destinação do
+     desembolso para a qual temos os parâmetros necessários para uma
+     análise mais detida. Ou seja, excluiu-se todo desembolso do BNDES
+     que está voltado para financiamento de exportações, apoio a
+     administração pública, fusão/aquisição, capital de giro,
+     internacionalização e mercado de capitais. A média ponderada da
+     participação do desembolso com destino para investimento nos 10
+     anos considerados foi de quase 80% ($0,78$). Essa é a primeira
+     fonte de subestimação na nossa análise do impacto do BNDES sob a
+     arrecadação fiscal, pois obviamente todas essas atividades
+     excluídas da análise também induzem decisões privadas que tem
+     impacto fiscal.
+     
+  2. Tranformação do valor dos desembolsos em "preços básicos"
+     
+     Para evitar dupla contagem do pagamento de impostos, os
+     desembolso para financiamento de investimentos foram
+     transformados a preços básicos, o que implica numa redução de
+     quase 20% do valor dos desembolsos para o investimento.
+
+  3. Consideração de um coeficiente da adicionalidade menor que 25%
+
+     Apenas considerou-se a parte do investimento que não teria
+     ocorrido não fosse a ação do BNDES. Assumiu-se que um coeficiente
+     de adicionalidade de menos de um quarto ($1/4$), ou seja, fez-se
+     a hipótese conservadora de que para cada R$ $1,00$ de desembolso
+     para investimento produtivo do BNDES, menos de R$ $0,25$ são de
+     investimentos que não ocorreriam sem o apoio do banco.  *Apenas
+     essa parte do investimento considera-se na análise do impacto da
+     ação do BNDES sobre a arrecadação de impostos privados*.  Para
+     dar alguma referência de como é baixo o índice utilizado, em um
+     dos estudos citados no voto do relator (ver Grimaldi, et alli), o
+     menor valor encontrado para o coeficiente de adicionalidade,
+     especificamente no caso do PSI (Programa de sustentação do
+     Investimento), foi de $0,58$ em 2010.
+     
+4. Alíquota de imposto específica sobre fornecedores de bens e
+     serviços para investimento
+     
+   Finalmente, usou-se uma alíquota de imposto de apenas 25%, menor
+   que a carga tributária de 35%, considerando-se as especificidades
+   do setor produtor de bens de capital, ou seja, considerou-se a
+   carga tributária incidente sobre bens de capital.
+
+
+ Sob essas hipóteses, mostra-se que, apenas no "setor de produção de
+ bens de capital", o apoio do BNDES gerou, nos últimos 10 anos, R$
+ $66,9$ bilhões a valores de 2016. Computando esse valor no impacto
+ fiscal total do BNDES temos como resultado um benefício líquido de R$
+ $20,6$ bilhões nos últimos 10 anos (ver figura [[fig:fiscal5]])
+
+#+NAME:   fig:fiscal5
+#+CAPTION: Simulação considerando nos Benefícios além dos tributos e dividendos pagos pelo BNDES, os impostos do setor fornecedor de bens e serviços para o investimento. Nos custos não se considera a parte referente ao FAT.
+[[file:fiscal5.png]] 
+
+
+
+ Se incluirmos uma análise do impacto do investimento sobre a renda, o
+ chamado efeito multiplicador, mesmo que a MP tivesse poder de fazer
+ uma revisão da Constituição, e o FAT fosse sujeito a usos
+ alternativos, o BNDES continuaria não gerando um custo fiscal líquido
+ positivo. Basta um multiplicador de $0,64$ -- ou seja, certamente o
+ multiplicador do gasto antônomo brasileiro é maior que isso, uma vez
+ que esse valor só seria possível se a propensão a importar fosse
+ maior que a propensão a consumir descontada alíquota referente à
+ carga tributária -- para que mesmo considerando o "custo fiscal" do
+ FAT, o custo fiscal líquido do sistema TJLP-BNDES seja nulo. Como
+ indica a figura [[fig:fiscal1]].
+
+ #+NAME: fig:fiscal1
+ #+CAPTION: Simulação de uma situação com custo fiscal líquido nulo mesmo contabilizando o "subsídio" do FAT no custo, basta um multiplicador irrealisticamente baixo para gerar esse resultado.
+ file:fiscal1.png
+
+
+ Finalmente, numa simulação com um multiplicador mais realista, $1,3$
+ por exemplo, o resultado seria um benefício fiscal de mais de R$ $60$
+ bilhões, como é indicado na figura [[fig:fiscal4]]:
+
+ #+NAME:   fig:fiscal4
+#+CAPTION: Simulação de uma situação com um multiplicador de 1.3: benefícios fiscais líquido nos últimos 10 anos teria sido de mais de R$ 60 bilhões.
+[[file:fiscal4.png]]
+
+O arranjo TJLP-BNDES está longe de ser um fardo fiscal para o
+país. Sendo assim, desmorona-se o principal argumento em defesa da
+MP 777. Procura-se, oportunisticamente, angariar apoio à medida
+provisória com base na narrativa de que vivemos uma crise derivada dos
+excessos dos gastos públicos. Além disso, o tema ganhou o papel de
+fundamento para a urgência e relevância da MP. Isso ajuda a entender a
+relutância em considerar mesmo a mais elementar medida de benefício
+fiscal do BNDES.
+
+O que resta de válido na MP 777 se seu fundamento fiscal é uma falácia
+ideologicamente motivada ou uma tentativa deliberada de manipulação do
+Congresso?
+
+
+#+CAPTION: Balanço de custo e benefício fiscal da TJLP-BNDES. Valores em R$ bilhões de 2016.
+#+TBLNAME: Custo-Beneficio 
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ |                                                             | Custo Fiscal | Benefício Fiscal | Custo Fiscal Liq. |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ | PSI                                                         |         45.1 |                  |                   |
+ | FMM                                                         |         17.5 |                  |                   |
+ | FAT                                                         |         82.4 |                  |                   |
+ | Aportes Tesouro                                             |        139.8 |                  |                   |
+ | Custo Fiscal Total(CFT)                                     |        284.8 |                  |                   |
+ | CFT Sem o FAT                                               |        202.4 |                  |                   |
+ | Impostro e Dividendos BNDES                                 |              |           153.23 |                   |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ | Total (sem FAT, contabilizando Impostos e Dividendos BNDES) |              |            49.17 |                   |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ | Impostos privados induzidos setor de BK ($\epsilon=.236$)   |              |            69.87 |                   |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ | Total (sem FAT, $\alpha=0.0$)                               |              |                  |             -20.7 |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ | Impostos privados induzidos multiplicador ($\alpha=0.64$)   |              |            61.74 |                   |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ | Total (com FAT, $\alpha=0.64$, $\epsilon=.236$)             |              |                  |             -0.04 |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ | Impostos privados induzidos multiplicador ($\alpha=1.3$)    |              |           125.15 |                   |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ | Total (com FAT, $\alpha=1.3$, $\epsilon=.236$)              |              |                  |            -63.45 |
+ |-------------------------------------------------------------+--------------+------------------+-------------------|
+ |                                                             |              |                  |                   |
+ #+TBLFM: @7$2=@-1-@-3::@8$3=remote(Custo-Beneficio2,@12$6)::@9$3=@7$2-@8$3;f2::@10$3=remote(Custo-Beneficio2,@12$7)::@11$4=(@7$2)-(@8$3+@10$3)::@12$3=remote(Custo-Beneficio2,@12$8)::@13$4=@6$2-@8$3-@10$3-@12$3::@14$3=remote(Custo-Beneficio2,@12$9)::@15$4=@6$2-@8$3-@10$3-@14$3
+** Apêndice: base de dados, parâmetros e equações usados no texto
+
+   #+CAPTION: Investimento "adicionado". 
+   \begin{equation}
+I^*= \gamma \epsilon I
+   \end{equation}
+
+   
+#+CAPTION: Impostos pagos pelos forncedores de bens e serviços para os Investimento.
+   \begin{equation}
+T_p^{BK}= \tau I^*
+   \end{equation}
+
+   #+CAPTION: Impostos pagos pelos setor privado em função da renda gerada pelo impacto do investimento.
+   \begin{equation}
+T_p^M= \alpha\tau_MI^*
+   \end{equation}
+   
+#+CAPTION: Total dos impostos pagos pelo setor privado.
+   \begin{equation}
+T_p= T_p^{BK}+T_p^M
+   \end{equation}
+
+   Onde:
+
+  - $I$: desembolso BNDES para investimento na Formação Bruta de Capital Fixo;
+  - $I^*$: desembolso investimento a preços básicos "adicionado"
+    (investimento que só teria acontecido por conta da atuação do
+    BNDES);
+  - $T_p^{BK}$: impostos pagos pelo setor fornecedor de bens e serviços para o investimento;
+  - $T_p^M$: impostos pagos pelo setor privado em função da renda
+    gerada pelo impacto do investimento;
+  - $T_p$: total de Impostos pagos pelo  setor privado;
+  - $\gamma$: transforma investimento preços correntes em preços básicos $(.826)$;
+  - $\epsilon$: fração do investimento preços básico 'adicionado' $(.236)$;
+  - $\tau$:alíquota da imposto incidente sobre bens de capital $(.254)$;
+  - $\tau_M$:carga tributária $(.35)$;
+  - $\alpha$:multiplicador dos gastos autônomos (valores usados nas simulações: $(.64)$ e $(1.3)$ );
+  - Os parâmetros $\gamma$ e $\tau$ foram estimados a partir da Matriz
+    Absorção do Investimento e da Matriz Insumo Produto.
+  
+#+CONSTANTS: gamma=.826 epsi=.236 tau=.254 alpha0=0.6412143 alpha1=1.3 tax=.35
+
+
+
+  
+#+CAPTION: Fator de atualização monetária utilizado para calcular valore a reais de 2016. Desembolsos do BNDES para FBCF em R$ bilhões correntes.
+#+TBLNAME:IPCA
+|  Ano | Investimento ($I$) | Fator de atual Monet (IPCA) | 
+|------+--------------------+-----------------------------+-
+| 2007 |              51.50 |             1.7483032004156 | 
+| 2008 |              65.33 |            1.65085762474481 | 
+| 2009 |              98.18 |            1.58262056419834 | 
+| 2010 |              99.21 |            1.49432552069041 | 
+| 2011 |             113.37 |            1.40307838410193 | 
+| 2012 |             126.20 |            1.32567745049751 | 
+| 2013 |             157.07 |            1.25169379796891 | 
+| 2014 |             163.07 |             1.1763213509403 | 
+| 2015 |             120.40 |            1.06287988213221 | 
+| 2016 |              66.67 |                           1 | 
+|------+--------------------+-----------------------------+-
+
+#+CAPTION: Livro verde do BNDES. Valores em R$ bilhões correntes.
+#+TBLNAME: livro-verde
+|  Ano | Dividendos pagos | Tributos pagos |  Total |
+|------+------------------+----------------+--------|
+| 2007 |            0.405 |          2.284 |  2.689 |
+| 2008 |            6.017 |          3.486 |  9.503 |
+| 2009 |           10.950 |          2.121 | 13.071 |
+| 2010 |            8.725 |          5.954 | 14.679 |
+| 2011 |            6.905 |          2.687 |  9.592 |
+| 2012 |           12.938 |          5.135 | 18.073 |
+| 2013 |            6.999 |          5.643 | 12.642 |
+| 2014 |            9.080 |          5.991 | 15.071 |
+| 2015 |            4.972 |          5.215 | 10.187 |
+| 2016 |            0.217 |          8.188 |  8.405 |
+#+TBLFM: $4=$-2+$-1
+
+
+#+CAPTION: Principais componentes do custo e subsídio fiscal. R$ bilhões de 2016
+#+TBLNAME: Custo-Beneficio2
+|       Ano | Invest 'Adicionado'($I^*$) |    FAT | Subs-FAT | Tot. TJLP-BNDES | Imp+Divid BNDES | Imp Setor BK($T_p^{BK}$) | Imp Priv Mult ($T_p^{M}$) $(\alpha=0.64)$ | Imp Priv Mult ($T_p^{M}$) $(\alpha=1.3)$ | Ben Total$(\alpha=0.64)$ | Ben Total 2$(\alpha=1.3)$ |
+|-----------+----------------------------+--------+----------+-----------------+-----------------+--------------------------+-------------------------------------------+------------------------------------------+--------------------------+---------------------------|
+|      2007 |                      17.55 |  9.104 |    0.826 |            9.93 |            4.70 |                     4.46 |                                      3.94 |                                     7.99 |                     13.1 |                     17.15 |
+|      2008 |                      21.02 |  6.324 |    2.209 |           8.533 |           15.69 |                     5.34 |                                      4.72 |                                     9.56 |                    25.75 |                     30.59 |
+|      2009 |                      30.29 | -1.356 |    7.241 |           5.885 |           20.69 |                     7.69 |                                      6.80 |                                    13.78 |                    35.18 |                     42.16 |
+|      2010 |                      28.90 | -2.266 |   12.738 |          10.472 |           21.94 |                     7.34 |                                      6.49 |                                    13.15 |                    35.77 |                     42.43 |
+|      2011 |                      31.01 | 13.235 |   18.042 |          31.277 |           13.46 |                     7.88 |                                      6.96 |                                    14.11 |                     28.3 |                     35.45 |
+|      2012 |                      32.61 | 14.189 |   17.213 |          31.402 |           23.96 |                     8.28 |                                      7.32 |                                    14.84 |                    39.56 |                     47.08 |
+|      2013 |                      38.33 | 15.775 |   18.084 |          33.859 |           15.82 |                     9.74 |                                      8.60 |                                    17.44 |                    34.16 |                       43. |
+|      2014 |                      37.39 |  5.595 |   27.768 |          33.363 |           17.73 |                     9.50 |                                      8.39 |                                    17.01 |                    35.62 |                     44.24 |
+|      2015 |                      24.95 |  5.904 |   56.029 |          61.933 |           10.83 |                     6.34 |                                      5.60 |                                    11.35 |                    22.77 |                     28.52 |
+|      2016 |                      13.00 | 15.871 |   42.215 |          58.086 |            8.41 |                     3.30 |                                      2.92 |                                     5.92 |                    14.63 |                     17.63 |
+|-----------+----------------------------+--------+----------+-----------------+-----------------+--------------------------+-------------------------------------------+------------------------------------------+--------------------------+---------------------------|
+| Acumulado |                     275.05 | 82.375 |  202.365 |          284.74 |          153.23 |                    69.87 |                                     61.74 |                                   125.15 |                   284.84 |                    348.25 |
+#+TBLFM: $2=remote(IPCA,@@#$2)*remote(IPCA,@@#$3)*$gamma*$epsi;f2::@12$2=vsum(@-10..@-1)::$6=remote(livro-verde,@@#$4)*remote(IPCA,@@#$3);f2::$7=$2*$tau;f2::$8=$2*$alpha0*$tax;f2::$9=$2*$alpha1*$tax;f2::$10=$-2+$-3+$-4::$11=$-2+$-4+$-5::@12$3=vsum(@-10..@-1)::@12$4=vsum(@-10..@-1)::@12$6=vsum(@-10..@-1)::@12$5=vsum(@-10..@-1)::@12$7=vsum(@-10..@-1)::@12$8=vsum(@-10..@-1)::@12$9=vsum(@-10..@-1)::@12$10=vsum(@-10..@-1)::@12$11=vsum(@-10..@-1)
+    
+
+
+
+
+*** Versão voto do PT na comissão
+
+    Nas considerações quanto aos pressupostos constitucionais de
+    relevância e urgência, o relator aceita os argumentos da exposição
+    de motivos da MP, essencialmente focados nas supostas implicações
+    fiscais positivas da MP:
+
+    1. a MP "busca a reversão do déficit primário de mais de 2,5% do
+       PIB para um superávit primário suficiente para estabilizar a
+       dívida;
+    2. a MP insere-se no quadro de outras reformas que buscam reverter
+       a aceleração da dívida pública;
+    3. a medida é indispensável para melhoria dos resultados fiscais.
+    
+    
+    Como evidência dos problemas fiscais decorrentes do atual arranjo
+    institucional que a MP se propõe a desfazer, na seção "Impacto
+    sobre as contas públicas", especialmente figura e tabela nas
+    páginas 32 e 33, o custo fiscal da TJLP-BNDES alcançaria a cifra
+    de R$ 284,7 bilhões entre os anos de 2007 e 2016.
+
+ Chama a atenção que na análise do impacto fiscal nenhuma menção é
+ feita aos benefícios fiscais da estrutura que se procura
+ desmontar. Estamos diante de inegável desbalanceamento na apreciação
+ da matéria. Entretanto, a necessidade de pesar custos com benefícios
+ fiscais é elementar para que se confirme ou não se o impacto fiscal
+ da estrutura TJLP-BNDES é tal que sua supressão possa beneficiar as
+ contas públicas.
+
+ Note-se que estamos abstraindo de todas considerações não fiscais
+ nesse momento. Não estamos entrando no mérito de que, ainda que o
+ sistema tivesse impacto fiscal negativo, sua contribuição em outras
+ dimensões, para o crescimento econômico, aumento de produtividade,
+ etc., poderia compensar um eventual impacto fiscal negativo. A
+ crítica não é de que o relator não fez essa análise, mas que do ponto
+ de vista estritamente fiscal sua análise é incompleta.
+
+ O impacto fiscal de uma política ou de um arranjo institucional pode
+ ser negativo ou positivo. Se de fato o impacto fiscal do arranjo
+ TJLP-BNDES é negativo como pressupõe o relator, os custos são maiores
+ que os benefícios fiscais, ou seja, o sistema apresenta um custo
+ fiscal líquido é positivo. De outro modo, o impacto fiscal seria
+ positivo (custos menores que benefícios fiscais) e teríamos um custo
+ fiscal líquido negativo.
+
+ A partir da definição de termos apresentada, deve ser dito que o
+ relator comete o seguinte erro: assume que o impacto fiscal do
+ arranjo TJLP-BNDES é negativo, sem demonstrá-lo, uma vez que
+ considera apenas o custo fiscal do arranjo TJLP-BNDES e desconsidera
+ seus benefícios fiscais. Como iremos mostrar, ao considerarmos os
+ benefícios fiscais derivados do arranjo TJLP-BNDES, ficará claro que
+ seu impacto fiscal é positivo ou que seu custo fiscal líquido é
+ negativo.
+
+#  Não trataremos desse segundo aspecto, entretanto, pois demonstraremos
+#  que o impacto fiscal do arranjo TJLP-BNDES é positivo ou nulo. Essa
+#  demonstração será feita sob a hipótese de que a segunda
+#  possibilidade, impacto nulo, só ocorre sob hipóteses extremamente
+#  conservadoras, ou seja, implausíveis.
+# 
+
+ Antes de apresentarmos essa proposição, vale explorar uma outra
+ crítica ao voto do relator, pois ela ajuda a entender o que está por
+ trás da agenda da qual a MP 777 faz parte. A crítica refere-se a
+ apreciação limitada dos determinantes da dívida bruta, sugerindo que
+ o BNDES e a TJLP são os grandes responsáveis pelo crescimento recente
+ da dívida bruta. Ou seja, mesmo que o impacto fiscal do arranjo
+ TJLP-BNDES fosse negativo, seria importante compará-lo com outros
+ fatores que contribuem para explicação da dinâmica da dívida pública.
+ 
+ Não há dúvida que a preocupação do relator está com os subsídios
+ associados à TJLP e ao BNDES, em particular com os subsídios
+ implícitos, pois esses últimos " afetam o montante da dívida bruta do
+ setor público, mas não o resultado primário"(p. 31) e, referindo-se
+ implicitamente à dívida bruta "a redução dos subsídios implícitos
+ contribuirá para reduzir a taxa de crescimento da dívida pública,
+ diminuindo os superávits primários necessários para o controle da
+ dinâmica da dívida, com menor pressão sobre os gastos sociais e a
+ necessidade de receita tributária"(p. 35).
+ 
+ Fosse realmente o propósito do relator advogar a MP 777 pelos seus
+ efeitos sobre a trajetória da dívida bruta, não deveria estar no bojo
+ da sua discussão considerações sobre o impacto fiscal das operações
+ compromissadas do Banco Central? Não deveria haver alguma
+ consideração sobre qual é a contribuição do que o relator chama de
+ subsídios implícitos associados ao BNDES, viz-à-viz, o custo das
+ operações compromissadas sobre à taxa de juros implícita do Setor
+ Público? 
+
+ Todavia, como observa o professor Pedro Paulo Zahluth Bastos do
+ Instituto de Economia da UNICAMP:
+
+ "Embora aumentem a dívida pública bruta, as operações compromissadas
+  do Banco Central não são criticadas pelos economistas vinculados
+  direta ou indiretamente aos bancos comerciais e outras organizações
+  financeiras privadas que costumam criticar o aumento da dívida
+  pública bruta.  Aliás, eles costumam criticar propostas para
+  substituí-las por alternativas muito menos custosas (para as contas
+  públicas) e igualmente eficazes, como a regulação da indústria de
+  fundos financeiros para alongar o prazo da demanda de títulos
+  públicos (Lopreato, 2014); ou a proposta do economista-chefe para a
+  América Latina da Standard & Poor, Joaquin Cottani (2015), de
+  "conversão em reservas de liquidez mínimas remuneradas à taxa
+  inferior àquela do mercado parte do estoque de 'repôs' que hoje
+  fazem os bancos com o BCB". Se um objetivo declarado da política de
+  austeridade fiscal realizada no Brasil em 2014 era manter a
+  avaliação favorável (grau de investimento) perante as agências de
+  classificação de risco, por que não atender ao conselho do
+  economista que chefia a avaliação da economia brasileira na
+  principal das agências?" (BASTOS, P.P.Z., 2016, Crescimento da
+  dívida pública e política monetária no Brasil (1991 - 2014), p. 27)
+
+  Se "a MP insere-se no quadro de outras reformas que buscam reverter
+ a aceleração da dívida pública" como diz o relator, qual dessas
+ reformas trata de explorar "alternativas muito menos custosas (para
+ as contas públicas) e igualmente eficazes" às operações
+ compromissadas?
+
+ Os erros do relator não revelam apenas sua tendenciosidade, mas
+ indicam a real natureza do que se pretende com a MP 777: aproveitar a
+ crise para tocar uma agenda de reformas cuja origem independe
+ totalmente da atual crise. A crise é apenas uma oportunidade de
+ empurrar goela abaixo de uma sociedade desesperada essa agenda de
+ supostas "reformas necessárias". Pretendem convencer o enfermo em
+ estado grave, que o amargor do remédio é garantia da sua eficácia.
+ 
+ Na verdade, as reformas estão na agenda do sistema financeiro e de
+ seus intelectuais orgânicos faz tempo e há indícios claros de falta
+ de compromisso mesmo com os objetivos declarados na MP 777, sem
+ entrar no mérito da importância real desses objetivos.
+ 
+ Nesse sentido, confirmando que a reforma propugnada pela MP 777 nada
+ tem a ver com a atual crise, mesmo no seu diagnóstico oficial de
+ crise fiscal motivada pela gastança desenfreada, deve ser mencionado
+ o fato de que a MP 777 é simples operacionalização de parte da
+ reforma defendida pelo economista-banqueiro Persio Arida em texto
+ publicado pela Casa das Garças em maio de 2005 (Texto para Discussão
+ n. 8, Mecanismo Compulsórios e Mercado de Capitais: proposta de
+ política econômica).
+
+ Nesse artigo Pérsio Arida propõe quatro reformas nos mecanismos de
+ poupança compulsória da Caixa Econômica e do BNDES: na precificação
+ do crédito, governança, gestão estatal e eliminação de distorções
+ alocativas. Voltaremos ao tema das outras reformas mais à frente, mas
+ sobre a precificação a semelhança com a proposta da TLP é
+ completa. Arida propõe "determinar a TJLP de acordo com o sinal
+ enviado pelo mercado sobre a taxa de juros de longo prazo em reais
+ vigente em títulos do Tesouro Nacional". À época, por seja por
+ considerações de quais eram os títulos do Tesouro que estavam
+ disponíveis no mercado, seja por detalhes apurados mais recentemente,
+ quanto ao prazo médio do financiamento do BNDES, Arida propunha
+ títulos de 10 anos, em contraste com os 5 anos estipulados pela TLP,
+ e indexados ao IGPM, em contraste com o IPCA definido na
+ TLP. Trata-se da mesma proposta com adaptação de detalhes. O artigo
+ de Arida advoga várias vantanges da proposta de precificação, mas,
+ pasmem, ao contrário do voto do relator e dos defensores na imprensa
+ e nas audiência públicas da MP 777, em nenhum momento destaca seu
+ impacto fiscal. Sem dúvida que aqui reside uma das razões
+ fundamentais pelas quais o artigo de Arida, que lhe garantiria a
+ paternidade da TLP, foi mantido distante do debate pelos defensores
+ da MP 777: o artigo contém um componente de honestidade intelectual
+ que é inconveniente e inoportuno para os defensores da TLP. Voltaremos
+ a outros exemplos de honestidade intelectual no artigo de Arida que
+ não encontram eco no voto do relator, bem como nos artigos e
+ pronunciamentos dos defensores da TLP.
+
+ Outro fator inconveniente do artigo original de Persio Arida é que
+ nele podemos contemplar a reforma completa que que os defensores da
+ MP 777 querem realizar nos esquemas de poupança compulsória. Os
+ reformadores atuais, por uma questão de estratégia e de forma
+ totalmente não transparente, apenas querem nos apresentar um primeira
+ parte do que está em jogo. E não se constrangem de afirmar como
+ aparece no voto do relator, que a reforma "não traz nenhum
+ dispositivo que possa diminuir a relevância da atuação do BNDES ou
+ ameaçar seu papel como banco de desenvolvimento" (p. 53).
+
+ O que fica escondido na argumentação em defesa da MP 777, é
+ transparente no artigo de Arida. Além da precificação por taxas de
+ mercado, a proposta de Arida prevê também mudanças na gestão do
+ FAT. Ao invés de confiar na administração dos recursos dos fundos
+ pelo BNDES, Arida sugere "leilões em que instituições financeiras
+ privadas competiriam pela aplicação dos recursos do FAT ou do FGTS em
+ setores ou atividades pré-selecionados. Essas modificações atenuariam
+ os efeitos do monopólio exercido pela CEF e pelo BNDES e reduziriam o
+ escopo de pressão dos grupos de interesse". Finalmente, Arida
+ defende, em nome de atenuar "distorções alocativas causadas pelos
+ mecanismos de financiamento compulsório", "zerar a alíquota do PIS"
+ com o propósito de "cessar novos aportes de recursos para o FAT". Não
+ há dúvida de quais é o horizonte de longo prazo dos proponentes da MP
+ 777: desmontar o FAT e o BNDES.
+ 
+ Retomemos a consideração de custos e benefícios fiscais da
+ TJLP-BNDES.
+
+# No que segue procura-se fazer é que uma análise que
+# pondere custos e benefícios fiscais não poderá concordar com os
+# argumentos apresentados na exposição de motivos que foram subscritos
+# pelo relator.
+# 
+ Em primeiro lugar, a análise dos custos fiscais superestima os custos
+ do sistema. Em audiências públicas e artigos de jornal José Roberto
+ Afonso, Felipe Salto, e o Senador José Serra, convincentemente
+ argumentaram que dada a ordenação jurídica do país, mais
+ especificamente, a Constituição Federal, não faz sentido calcular o
+ subsídio associado ao FAT uma vez que os recursos repassados ao BNDES
+ não tem aplicação alternativa. Para ficar claro, a MP 777 não propõe,
+ e nem poderia propor, uma alteração na Constituição. Esse raciocínio
+ não envolve nenhuma revolução da "teoria econômica", como chegaram a
+ argumentar na audiência pública no Rio de Janeiro, mas apenas a
+ consideração mais comezinha de que a análise econômica precisa ser
+ feita considerando as restrições legais vigentes em cada país.
+
+ O BNDES paga impostos e distribui dividendos para seu acionista único
+ que é a União. Não são todos os bancos de desenvolvimento que pagam
+ impostos ou distribuem dividendos para seu acionista, vide o caso do
+ do KfW, o banco de desenvolvimento da Alemanha. Note-se
+ adicionalmente que parte da consideração dos benefícios fiscais não
+ envolve qualquer hipótese ou modelo, mas a mesma contabilidade com
+ que se calculou o custo fiscal. As informações são de fácil
+ acesso. No caso específico do relator não há desculpa para não ter
+ considerado essas informações uma vez que constam do "livro verde" do
+ BNDES (tabela 2.7, página 63) com o qual foi presenteado publicamente
+ pelo presidente do BNDES, Paulo Rabelo de Castro na audiência
+ pública no Rio de Janeiro. Segundo informação divulgada pelo próprio
+ relator, isso aconteceu antes dele se debruçar sobre a tarefa de
+ escrever seu voto. Deve-se também destacar que na segunda audiência
+ em Brasília o tema foi tratado pelo representante da AFBNDES.
+
+ Atualizados a valores de 2016, total pago pelo BNDES de 2007 à 2016
+ correspondeu a R$ $153,2$ bilhões em reais de 2016. Note-se que isso
+ corresponde a mais da metade do custo fiscal apontado pelo relator.
+
+ Apenas as duas considerações acima, retirar do custo fiscal o FAT e
+ incluir os benefícios fiscais na forma de dividendos e tributo pagos
+ pelo BNDES, chegamos a um custo fiscal quase 6 vezes menor do que o
+ sugerido pelo voto do relator. Ao invés dos R$ $284,7$ bilhões o
+ custo fiscal reduz-se a R$ $49,2$ bilhões.
+
+ Se adicionarmos a esse exercício meramente contábil alguma análise do
+ volume dos impostos pagos pelo setor privado que são induzidos por
+ atividades promovidas pelo BNDES, se verifica que o sistema gera um
+ custo fiscal líquido negativo.
+
+ Entre outras hipóteses assumidas nesse exercício, assume-se um índice
+ de adicionalidade de menos de um quarto ($1/4$), ou seja, faz-se a
+ hipótese conservadora de que para cada R$ $1$ de desembolso para
+ investimento produtivo do BNDES, menos de R$ $0,25$ são de
+ investimentos que não ocorreriam sem o apoio do banco. Apenas essa
+ parte do investimento considera-se na análise do impacto da ação do
+ BNDES sobre a arrecadação de impostos privados. No caso, apenas sobre
+ a arrecadação de impostos do setor privado fornecedor de bens de
+ capital.  O resultado a que se chega é que nos últimos 10 anos, cerca
+ de R$ $66,9$ bilhões a valores de 2016 foram pagos de impostos que
+ sem a presença do BNDES não teriam ocorrido. Incluindo esse valor no
+ balanço de custo e benefício fiscal chegamos ao resultado de que o
+ sistema atual gera um benefício fiscal líquido de mais de R$ 17
+ bilhões.
+
+ Finalmente, se incluirmos uma análise do impacto do investimento
+ sobre a renda, o chamado efeito multiplicador, mesmo que a MP tivesse
+ poder de fazer uma revisão da Constituição, e o FAT fosse sujeito a
+ usos alternativos, o BNDES continuaria não gerando um custo fiscal
+ líquido positivo. Basta um multiplicador de $0,7$ -- ou seja,
+ certamente o multiplicador do gasto antônomo brasileiro é maior que
+ isso, uma vez que esse valor só seria possível se a propensão a
+ importar fosse maior que a propensão a consumir descontada alíquota
+ referente à carga tributária -- para que mesmo considerando o "custo
+ fiscal" do FAT, o custo fiscal líquido do sistema TJLP-BNDES seja
+ nulo.
+
+ Sendo assim desmorona-se o que tem sido o principal argumento em
+ defesa da MP 777.  A questão fiscal envolvida na MP 777 é mais do que
+ uma simples prioridade conceitual. Como vimos o tema ganhou o papel
+ de fundamento para a admissibilidade da MP. Isso ajuda a entender a
+ relutância em considerar mesmo a mais elementar medida de benefício
+ fiscal do BNDES na análise do impacto fiscal. O que sobra do
+ argumento de admissibilidade se o fundamento fiscal da MP for uma
+ falácia motivada por entusiasmo ideológico?
+ 
+*** Texto completo
+
+    # impacto fiscal do BNDES
+
+ # A segunda questão associada a essa é o custo fiscal do BNDES.
+
+  Segundo o voto do relator, ver figura e tabela nas páginas 32 e 33
+ seção "Impacto sobre as contas públicas", o custo fiscal da
+ TJLP-BNDES alcançaria a cifra de R$ 284,7 bilhões entre os anos de
+ 2007 e 2016.
+
+ O reparo fundamental sobre esses cálculos de custo fiscal, que já foi
+ mais de uma vez demonstrado, e diz respeito à inclusão do subsídio
+ associado ao FAT. Em audiências públicas e artigos de jornal José
+ Roberto Afonso, Felipe Salto, e o Senador José Serra, convincentemente
+ argumentaram que dada a ordenação jurídica do país, mais
+ especificamente, a Constituição Federal, não faz sentido calcular o
+ subsídio associado ao FAT uma vez que os recursos repassados ao BNDES
+ não tem aplicação alternativa. Para ficar claro, a MP 777 não propõe,
+ e nem poderia propor, uma alteração na Constituição. Esse raciocínio
+ não envolve nenhuma revolução da "teoria econômica", como chegaram a
+ argumentar na audiência pública no Rio de Janeiro, mas apenas a
+ consideração mais comezinha de que a análise econômica precisa ser
+ feita considerando as restrições legais vigentes em cada país.
+
+ Feita essas correções chegamos ao número de cerca de R$ $202,4$
+ bilhões de subsídios $(284,7 - 82,4)$ em dez anos, soma dos subsídios
+ implícitos dos Empréstimos da União ao BNDES (R$ $139,8$ bi) e do
+ Fundo da Marinha Mercante (R$ $17,5$), com os subsídios explícitos do
+ PSI (R$ $45,1$).
+
+ Se esse é o montante que corresponde ao custo fiscal, qual é o que
+ corresponde ao benefício fiscal do arranjo institucional TJLP-BNDES?
+ Qualquer parlamentar ou cidadão interessado ficará intrigado em
+ descobrir que não há menção ao benefício fiscal do BNDES nos inúmeros
+ artigos na imprensa, bem como nas apresentações em audiências
+ públicas, dos defensores da TLP, a despeito de toda prioridade dada
+ por eles à questão fiscal. O voto do relator, afinado que está com as
+ visões dos defensores da MP 777, também revela a mesma concepção que
+ dá prioridade ao tema fiscal - o primeiro item da seção sobre
+ "aspectos positivos" da MP 777 é justamente o "impacto sobre as
+ contas públicas" - mas não considera nenhuma medida de benefício
+ fiscal do BNDES.
+
+ Dada a ausência de um tratamento do tema é de se perguntar: qual é a
+ heresia ou erro de apontar que os benefícios fiscais devem ser
+ considerados numa análise do impacto fiscal do BNDES? Afinal de
+ contas o BNDES paga impostos e distribui dividendos para seu
+ acionista único que é a União.  Não são todos bancos de
+ desenvolvimento que pagam impostos ou distribuem dividendos para seu
+ controlador, vide o caso do KfW, o banco de desenvolvimento da
+ Alemanha. Note-se adicionalmente que a consideração desses itens não
+ envolve qualquer hipótese ou modelo, mas a mesma contabilidade com
+ que se calculou o custo fiscal. As informações são de fácil
+ acesso. No caso específico do relator não há desculpa para não ter
+ considerado essas informações uma vez que constam do "livro verde" do
+ BNDES (tabela 2.7, página 63) com o qual foi presenteado publicamente
+ pelo presidente do BNDES, Paulo Rabello de Castro na audiência
+ pública no Rio de Janeiro. Segundo informação divulgada pelo próprio
+ relator, isso aconteceu antes dele se debruçar sobre a tarefa de
+ escrever seu voto. Deve-se também destacar que na segunda audiência
+ em Brasília o tema foi tratado pelo representante da AFBNDES.
+
+ Para comparar o benefício fiscal na forma de tributos e dividendos
+ com os dados de custo fiscal apresentados no seu voto, era necessário
+ apenas transformar os valores correntes constantes no livro verde em
+ valores de 2016. O total pago pelo BNDES de 2007 a 2016 correspondeu
+ a R$ $153,2$ bilhões em reais de 2016. Fazendo a diferença entre o
+ custo e o benefício, temos um custo líquido de R$ $49,2$ bilhões
+ ($202.4$ - $153,2$) em dez anos, ou seja, um subsídio implícito de R$
+ $5$ bilhões por ano. Um valor quase 6 vezes menor do que o sugerido
+ pelo voto do relator ($284,7 / 50 = 5,7$).
+
+ Todavia, uma análise mais profunda do impacto fiscal do BNDES tem que
+ avançar no terreno das hipóteses econômicas, para além do debate
+ meramente contábil. Os investimentos financiados pelo BNDES geram
+ pagamentos de impostos do setor privado ligado ao atendimento dos
+ investimentos. Se incluirmos na conta esses impostos, sob hipóteses
+ extremamente conservadoras, veremos que a operação do BNDES gera um
+ benefício fiscal líquido.
+
+ A memória de cálculo é apresentada no apêndice.
+
+ Segue uma explicação das principais hipóteses assumidas. Partindo-se
+ dos desembolsos do BNDES, contabilizou-se apenas a proporção desses
+ que tem como finalidade financiar investimentos (formação bruta de
+ capital fixo) pois é a única destinação do desembolso para que temos
+ os parâmetros necessários para uma análise mais detida. Ou seja,
+ excluiu-se todo desembolso do BNDES que está voltado para
+ financiamento de exportações, apoio a administração pública,
+ fusão/aquisição, capital de giro, internacionalização e mercado de
+ capitais. A média ponderada da participação do desembolso com destino
+ para investimento nos 10 anos considerados foi de quase 80% ($0,78$).
+
+ Para evitar dupla contagem do pagamento de impostos, os desembolso
+ para financiamento de investimentos foram transformados a preços
+ básicos, o que implica numa redução de quase 20% do valor dos
+ desembolsos para o investimento.
+
+ Desse montante considerou-se apenas a parte do investimento que não
+ teria ocorrido não fosse a ação do BNDES. Assumiu-se que um
+ coeficiente de adicionalidade de menos de um quarto ($1/4$), ou seja,
+ fez-se a hipótese conservadora de que para cada R$ $1,00$ de
+ desembolso para investimento produtivo do BNDES, menos de R$ $0,25$
+ são de investimentos que não ocorreriam sem o apoio do banco. Para
+ dar alguma referência de como é baixo o índice utilizado, em um dos
+ estudos citados no voto do relator, que será examinado mais adiante,
+ o menor valor encontrado para o coeficiente de adicionalidade,
+ especificamente no caso do PSI (Programa de sustentação do
+ Investimento), foi de $0,58$ em 2010.
+
+ Finalmente, usou-se uma alíquota de imposto de apenas 25%, menor
+ que a carga tributária de 35%, considerando-se as especificidades
+ do setor produtor de bens de capital, ou seja, considerou-se a carga
+ tributária incidente sobre bens de capital. Sob essas hipóteses,
+ mostra-se que, apenas no "setor de produção de bens de capital", o
+ apoio do BNDES gerou, nos últimos 10 anos, R$ $66,9$ bilhões a
+ valores de 2016.  Computando esse valor no impacto fiscal total do
+ BNDES temos como resultado um benefício líquido de R$ $17,7$ bilhões
+ nos últimos 10 anos.
+
+ Outra consideração é necessária para que se entenda o significado do
+ resultado a que chegamos. Considerou-se apenas o investimento
+ "adicionado" financiado pelo BNDES, não foi considerado em nenhum
+ momento da análise o impacto do investimento na renda da economia, o
+ chamado efeito multiplicador. Na falta de um valor empírico seguro
+ para o valor do multiplicador o seguinte exercício pareceu
+ interessante. Qual seria o valor do multiplicador necessário para que
+ mesmo que a MP tivesse poder de fazer uma revisão da Constituição, e
+ o FAT fosse sujeito a usos alternativos, o BNDES continuasse não
+ gerando um custo fiscal líquido positivo.
+
+ Considerando o subsídio do FAT teríamos um custo fiscal líquido de R$
+  $64,7$ bilhões $(82,4-17,7)$, ou $6,47$ bilhões por anos a preços
+  de 2016. Considerando, mais uma vez, apenas o desembolso para
+  finalidade de investimento a preços básicos "adicionado", temos um
+  total de R$ $263,3$ bilhões nesses dez anos. Assumindo a carga
+  tributária de 35%, é fácil ver que fosse o multiplicador igual a
+  $1$, o impacto do investimento sobre a renda geraria uma arrecadação
+  de R$ $92,1$ bilhões. Ou seja, mais do que necessário para zerar o
+  custo fiscal líquido de R$ $64,7$ bilhões. De fato basta um
+  multiplicador de $0,7$, o que implicaria que a propensão a importa é
+  maior que a propensão a consumir descontada a alíquota da carga
+  tributária, para que o custo líquido do BNDES fosse
+  zero. Independente das dúvidas que tenhamos sobre o valor real do
+  multiplicador, ele certamente é maior que $0,7$.
+
+ Sendo assim desmorona-se o que tem sido o principal argumento em
+ defesa da MP 777.  A questão fiscal envolvida na MP 777 é mais do que
+ uma simples prioridade conceitual. De fato ela ganhou o papel de
+ fundamento para a admissibilidade da MP. Os dois parágrafos no voto do
+ relator que justificam a relevância e urgência da MP estão
+ exclusivamente calcados na questão do impacto da MP sobre a dívida
+ pública. Isso ajuda em grande medida a entender a relutância em
+ considerar mesmo a mais elementar medida de benefício fiscal do BNDES,
+ o que chamamos atenção retoricamente parágrafos acima. O que sobra do
+ argumento de admissibilidade se o fundamento fiscal da MP for uma
+ falácia? E se for resultado de um equívoco motivado por entusiasmo
+ ideológico?
+
+ # Licença para uma digressão política (que talvez agrade o Lindhberg).
+
+ A verdadeira urgência da MP está calcada, como sabemos, numa motivação
+ estritamente política. A sua urgência é a mesma das demais reformas
+ que o governo visa implantar. A urgência está dada pela sobrevivência
+não precária do governo Temer.
+ # esse bloco político que empoderou políticos
+ # corruptos e economistas ultraliberais tomando o país de
+ # assalto.
+ Assim como no caso das demais reformas, a trabalhista, a da
+ previdência, os nossos reformadores sabem que tem o voto dos conselhos
+ editoriais da mídia,
+ # que embarcou completamente na narrativa
+ # de que vivemos uma crise derivada da gastança,
+ mas não tem apoio popular, para o que propõe. A reforma do BNDES, com
+ a implantação da TLP, nunca seria selecionada numa competição
+ democrática. Nossa constituição, infelizmente para os que propugnam a
+ MP 777, não considera essa urgência aceitável para admissão de uma
+ medida provisória.
+
+  # melhorar
+ # É muito significativo da postura de representantes da Fazenda e do
+ # Banco Central que participaram das audiências a irritação com essa
+ # consideração. De fato, parecem compartilhar de uma visão econômica
+ # dogmática, estritamente vinculada a manuais americanos de economia,
+ # apresentando aparentemente nenhuma respeito ou conhecimento das
+ # particularidades social e histórica nacional. Como o relator também
+ # deixou-se impregnar dessa visão, seu voto em vários trechos dá a
+ # impressão de que está plagiando algum desses manuais introdutórios de
+ # microeconomia.
+ # 
+
+ 
+
+
+
+*** Versão Folha de São Paulo
+
+     Muito tem sido dito sobre o "rombo" nas contas públicas causado
+pelos subsídios ao BNDES decorrentes da diferença entre a Selic e a
+TJLP (Taxa de Juros de Longo Prazo), índice pelo qual o banco remunera
+a maior parte do seu funding.
+
+No debate sobre a MP 777, que promete acabar com a TJLP para estancar
+esse suposto desequilíbrio, chama a atenção o silêncio a respeito dos
+benefícios fiscais gerados pelo sistema TJLP-BNDES.
+
+Todavia, são indiscutíveis os ganhos desse sistema, seja diretamente,
+via pagamento de impostos e distribuição de dividendos, seja na forma
+de tributos pagos pelo setor privado, decorrentes das atividades
+induzidas por empréstimos do BNDES.
+
+É preciso analisar mais de perto os números segundo os quais o impacto
+fiscal da TJLP-BNDES teria alcançado a cifra de R$ 284,7 bilhões entre
+os anos de 2007 e 2016 (voto do relator da MP 777).
+
+Em primeiro lugar, a análise dos custos é superestimada. Não faz
+sentido calcular o subsídio associado ao FAT (Fundo de Amparo ao
+Trabalhador), uma vez que os recursos repassados ao BNDES foram
+criados para financiá-lo.
+
+O total pago pelo banco à União, a título de dividendos e impostos, de
+2007 a 2016, correspondeu a R$ 153 bilhões.
+
+Apenas essas duas considerações contábeis -- retirar o "custo fiscal"
+do FAT (R$ 82,4 bilhões) e incluir os benefícios na forma de
+dividendos e tributos pagos pelo BNDES -- implicam reduzir o custo
+fiscal líquido de R$ 284,7 bilhões para R$ 49,2 bilhões.
+
+Se adicionarmos a análise do volume dos impostos pagos pelo setor
+privado, verifica-se que o sistema não gera custo, mas um benefício
+fiscal.
+
+O cálculo é simples e considera, conservadoramente, apenas os
+desembolsos do BNDES destinados ao financiamento da Formação Bruta de
+Capital Fixo (investimento produtivo) e que, para cada R$ 1 de
+desembolso para investimento, menos de R$ 0,25 não ocorreriam sem o
+apoio do banco.
+
+Sob essas hipóteses, o impacto do BNDES, apenas sobre a arrecadação de
+impostos do setor privado fornecedor de bens e serviços voltados para
+atender o investimento, atinge cerca de R$ 69,8 bilhões. Incluindo o
+valor encontrado no balanço, chegamos a um benefício fiscal líquido de
+R$ 20,6 bilhões.
+
+Finalmente, pode-se mostrar que mesmo que admitíssemos que os "custos
+fiscais" do FAT fossem considerados, bastaria um multiplicador do
+gasto autônomo de 0,64 (valor ridiculamente baixo em face dos usuais
+1,3 ou 1,5) para que o custo fiscal líquido fosse nulo.
+
+O arranjo TJLP-BNDES está longe de ser um fardo fiscal para o
+país. Sendo assim, desmorona-se o principal argumento em defesa da
+MP 777. Procura-se, oportunisticamente, angariar apoio à medida
+provisória com base na narrativa de que vivemos uma crise derivada dos
+excessos dos gastos públicos.
+
+Além disso, o tema ganhou o papel de fundamento para a urgência e
+relevância da MP. Isso ajuda a entender a relutância em considerar
+mesmo a mais elementar medida de benefício fiscal do BNDES.
+
+O que resta de válido na MP 777 se seu fundamento fiscal é uma falácia
+ideologicamente motivada ou uma tentativa deliberada de manipulação do
+Congresso?
+
+Artigo publicado no jornal Folha de S. Paulo na última segunda-feira (22/8).
+
+
+    
+
+#+CAPTION: R$ bilhões de 2016
+#+TBLNAME: subsidio-TJLP
+| DISCRIMINAÇÃO                                 | Tipologia |  2007 |  2008 |   2009 |   2010 |   2011 |   2012 |   2013 |   2014 |   2015 |   2016 | 2007-2016 |
+|-----------------------------------------------+-----------+-------+-------+--------+--------+--------+--------+--------+--------+--------+--------+-----------|
+| Programa de Sustentação do Investimento (PSI) | Explícito |       |       |        |        |  0.605 |  1.006 |  0.154 |  0.131 | 32.940 | 10.216 |    45.052 |
+| Empréstimos da União ao BNDES                 | Implícito |       |  .029 |  7.235 | 12.746 | 14.873 | 16.528 | 13.401 | 25.223 | 20.633 | 29.146 |   139.814 |
+| Fundo de Amparo ao Trabalhador (FAT)          | Implícito | 9.104 | 6.324 | -1.356 | -2.266 | 13.235 | 14.189 | 15.775 |  5.595 |  5.904 | 15.871 |    82.375 |
+| Fundo da Marinha Mercante (FMM)               | Implícito | 0.826 | 2.180 |  0.006 | -0.008 |  2.564 | -0.321 |  4.529 |  2.414 |  2.456 |  2.853 |    17.499 |
+|-----------------------------------------------+-----------+-------+-------+--------+--------+--------+--------+--------+--------+--------+--------+-----------|
+| total TJLP-BNDES                              |           |  9.93 | 8.533 |  5.885 | 10.472 | 31.277 | 31.402 | 33.859 | 33.363 | 61.933 | 58.086 |    284.74 |
+|-----------------------------------------------+-----------+-------+-------+--------+--------+--------+--------+--------+--------+--------+--------+-----------|
+| total - FAT                                   |           | 0.826 | 2.209 |  7.241 | 12.738 | 18.042 | 17.213 | 18.084 | 27.768 | 56.029 | 42.215 |   202.365 |
+#+TBLFM: $13=vsum($3..$12)::@6$3=vsum(@2..@5)::@6$4=vsum(@2..@5)::@6$5=vsum(@2..@5)::@6$6=vsum(@2..@5)::@6$7=vsum(@2..@5)::@6$8=vsum(@2..@5)::@6$9=vsum(@2..@5)::@6$10=vsum(@2..@5)::@6$11=vsum(@2..@5)::@6$12=vsum(@2..@5)::@6$13=vsum(@2..@5)::@7$3=@-1-@-3::@7$4=@-1-@-3::@7$5=@-1-@-3::@7$6=@-1-@-3::@7$7=@-1-@-3::@7$8=@-1-@-3::@7$9=@-1-@-3::@7$10=@-1-@-3::@7$11=@-1-@-3::@7$12=@-1-@-3::@7$13=@-1-@-3
+
+
+
+- [[file:fiscal1.png]]
+
+- [[file:fiscal2.png]]
+
+- file:fiscal3.png
+
+- file:fiscal4.png
+
+- file:fiscalMultiplot.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+** Apêndice 2: Tabelas e Gráficos
+
+| DISCRIMINAÇÃO                                 | Tipologia |  2007 |  2008 |   2009 |   2010 |   2011 |   2012 |   2013 |   2014 |   2015 |   2016 | 2007-2016 |
+|-----------------------------------------------+-----------+-------+-------+--------+--------+--------+--------+--------+--------+--------+--------+-----------|
+| Programa de Sustentação do Investimento (PSI) | Explícito |       |       |        |        |  0.605 |  1.006 |  0.154 |  0.131 | 32.940 | 10.216 |    45.052 |
+| Empréstimos da União ao BNDES                 | Implícito |       |  .029 |  7.235 | 12.746 | 14.873 | 16.528 | 13.401 | 25.223 | 20.633 | 29.146 |   139.814 |
+| Fundo de Amparo ao Trabalhador (FAT)          | Implícito | 9.104 | 6.324 | -1.356 | -2.266 | 13.235 | 14.189 | 15.775 |  5.595 |  5.904 | 15.871 |    82.375 |
+| Fundo da Marinha Mercante (FMM)               | Implícito | 0.826 | 2.180 |  0.006 | -0.008 |  2.564 | -0.321 |  4.529 |  2.414 |  2.456 |  2.853 |    17.499 |
+|-----------------------------------------------+-----------+-------+-------+--------+--------+--------+--------+--------+--------+--------+--------+-----------|
+| total TJLP-BNDES                              |           |  9.93 | 8.533 |  5.885 | 10.472 | 31.277 | 31.402 | 33.859 | 33.363 | 61.933 | 58.086 |    284.74 |
+|-----------------------------------------------+-----------+-------+-------+--------+--------+--------+--------+--------+--------+--------+--------+-----------|
+| total - FAT                                   |           | 0.826 | 2.209 |  7.241 | 12.738 | 18.042 | 17.213 | 18.084 | 27.768 | 56.029 | 42.215 |   202.365 |
+|                                               |           |       |       |        |        |        |        |        |        |        |        |           |
+#+TBLFM: $3=@-1-@-3::$4=@-1-@-3::$5=@-1-@-3::$6=@-1-@-3::$7=@-1-@-3::$8=@-1-@-3::$9=@-1-@-3::$10=@-1-@-3::$11=@-1-@-3::$12=@-1-@-3::$13=@-1-@-3
+
+#+PLOT: set:"xlabel 'Anos'" set:"ylabel 'R$ bilhões'"
+
+
+
+# Grafico usando orgplot:
+
+#+PLOT: title:"Custo e Benefício Fiscal"
+#+PLOT: ind:1 deps:(5 8) type:2d  with:lines
+#+PLOT: set xrange [2007:2016]
+#+TBLNAME:Custo-Beneficio-Orgplot
+|  Ano |    FAT | Subs-FAT | Impostos+Dividendos | total TJLP-BNDES |      Impostos BK | Impostos Multiplicador | Benefício total |
+|------+--------+----------+---------------------+------------------+------------------+------------------------+-----------------|
+| 2007 |  9.104 |    0.826 |               4.701 |             9.93 | 4.45784654186684 |       3.93878837424853 |       13.097635 |
+| 2008 |  6.324 |    2.209 |              15.687 |            8.533 | 5.33991168548167 |       4.71814852053678 |       25.745060 |
+| 2009 | -1.356 |    7.241 |              20.687 |            5.885 | 7.69390879727137 |       6.79805332880079 |       35.178962 |
+| 2010 | -2.266 |   12.738 |              21.936 |           10.472 |  7.3408621950012 |       6.48611440503349 |       35.762977 |
+| 2011 | 13.235 |   18.042 |              13.458 |           31.277 | 7.87582304751849 |       6.95878603398796 |       28.292609 |
+| 2012 | 14.189 |   17.213 |              23.959 |           31.402 | 8.28346535614401 |       7.31896370519905 |       39.561429 |
+| 2013 | 15.775 |   18.084 |              15.823 |           33.859 |  9.7342858862844 |       8.60085508112895 |       34.158141 |
+| 2014 |  5.595 |   27.768 |              17.728 |           33.363 | 9.49810236393939 |       8.39217205373789 |       35.618274 |
+| 2015 |  5.904 |   56.029 |              10.828 |           61.933 |  6.3363316232005 |       5.59854833459429 |       22.762880 |
+| 2016 | 15.871 |   42.215 |               8.405 |           58.086 |  3.3009100780324 |       2.91656209285955 |       14.622472 |
+|      |        |          |                     |                  |                  |                        |                 |
+#+TBLFM: $8=$-1+$-2+$-4
+
+
+#+TBLNAME: Custo-BeneficioCompleto
+|  Ano |    FAT | Subs-FAT | Impostos+Dividendos | total TJLP-BNDES |      Impostos BK | Imp Multiplicador(0.64) | Imp Multiplicador(1.3) | Benefício total | Benefício Total 2 | Benefício Total 3 |
+|------+--------+----------+---------------------+------------------+------------------+-------------------------+------------------------+-----------------+-------------------+-------------------|
+| 2007 |  9.104 |    0.826 |               4.701 |             9.93 | 4.45784654186684 |        3.93878837424853 |       7.98551250610004 |       13.097635 |         17.144359 |         9.1588465 |
+| 2008 |  6.324 |    2.209 |              15.687 |            8.533 | 5.33991168548167 |        4.71814852053678 |       9.56558983029195 |       25.745060 |         30.592502 |         21.026912 |
+| 2009 | -1.356 |    7.241 |              20.687 |            5.885 | 7.69390879727137 |        6.79805332880079 |       13.7823956801515 |       35.178962 |         42.163304 |         28.380909 |
+| 2010 | -2.266 |   12.738 |              21.936 |           10.472 |  7.3408621950012 |        6.48611440503349 |       13.1499696800218 |       35.762977 |         42.426832 |         29.276862 |
+| 2011 | 13.235 |   18.042 |              13.458 |           31.277 | 7.87582304751849 |        6.95878603398796 |       14.1082656953579 |       28.292609 |         35.442089 |         21.333823 |
+| 2012 | 14.189 |   17.213 |              23.959 |           31.402 | 8.28346535614401 |        7.31896370519905 |       14.8384910907304 |       39.561429 |         47.080956 |         32.242465 |
+| 2013 | 15.775 |   18.084 |              15.823 |           33.859 |  9.7342858862844 |        8.60085508112895 |        17.437401882911 |       34.158141 |         42.994688 |         25.557286 |
+| 2014 |  5.595 |   27.768 |              17.728 |           33.363 | 9.49810236393939 |        8.39217205373789 |       17.0143172267418 |       35.618274 |         44.240420 |         27.226102 |
+| 2015 |  5.904 |   56.029 |              10.828 |           61.933 |  6.3363316232005 |        5.59854833459429 |       11.3505153092765 |       22.762880 |         28.514847 |         17.164332 |
+| 2016 | 15.871 |   42.215 |               8.405 |           58.086 |  3.3009100780324 |        2.91656209285955 |       5.91304758072733 |       14.622472 |         17.618958 |         11.705910 |
+#+TBLFM: $11=$-5+$-7
+
+#+TBLNAME: ACUMULADO
+|------+--------+----------+---------------------+------------------+------------------+-------------------------+------------------------+-----------------+-------------------|
+| Soma | 82.375 |  202.365 |             153.212 |           284.74 |        69.861448 |               61.726992 |              125.14551 |       284.80044 |         348.21896 |
+|      |        |          |                     |                  |                  |                         |                        |                 |                   |
+  
+#+TBLFM: $3=vsum(@-10..@-1)::$4=vsum(@-10..@-1)::$5=vsum(@-10..@-1)::$6=vsum(@-10..@-1)::$7=vsum(@-10..@-1)::$8=vsum(@-10..@-1)::$9=vsum(@-10..@-1)::$10=vsum(@-10..@-1)::@12$2=vsum(@-10..@-1)
+
+
+#+begin_src gnuplot :var data1=Custo-BeneficioCompleto :exports code :file fiscal3.png
+reset
+set title "CUSTO Fiscal em 10 anos: R$284 bi"
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:100]
+
+plot data1 using 1:5 with linespoints lw 5 title 'Custo Fiscal', \
+     data1 using 1:5  with filledcurves x1 title 'Custo Fiscal Liq.'
+#+end_src
+
+    
+#+RESULTS:
+[[file:fiscal3.png]]
+
+
+#+begin_src gnuplot :var data1=Custo-BeneficioCompleto :exports code :file fiscal2.png
+set title "CUSTO Fiscal líquido com ajustes contábeis: R$ 49,9 bi"
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:100]
+
+plot data1 using 1:3 with linespoints lw 5 title 'Custo Fiscal', \
+     data1 using 1:3:4  with filledcurves above title 'Custo Fiscal Liq.', \
+     data1 using 1:4 with linespoints lw 5 title 'Benefício Fiscal', \
+     data1 using 1:3:4  with filledcurves below title 'Beneficio Fiscal Liq.'
+#+end_src
+
+#+RESULTS:
+[[file:fiscal2.png]]
+
+#+begin_src gnuplot :var data1=Custo-BeneficioCompleto :exports code :file fiscal5.png
+reset
+set title "BENEFÍCIO Fiscal Liq. total= R$20 bi, impostos setor BK"
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:100]
+
+plot data1 using 1:3 with linespoints lw 5 title 'Custo Fiscal', \
+     data1 using 1:3:11  with filledcurves above title 'Custo Fiscal Liq.', \
+     data1 using 1:11 with linespoints lw 5 title 'Benefício Fiscal', \
+     data1 using 1:3:11  with filledcurves below title 'Beneficio Fiscal Liq.'
+#+end_src
+
+#+RESULTS:
+[[file:fiscal5.png]]
+
+
+
+#+begin_src gnuplot :var data1=Custo-BeneficioCompleto :exports code :file fiscal1.png
+reset
+set title "CUSTO = BENEFÍCIO Fiscal liq."
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:100]
+
+plot data1 using 1:5 with linespoints lw 5 title 'Custo Fiscal', \
+     data1 using 1:5:9  with filledcurves above title 'Custo Fiscal Liq.', \
+     data1 using 1:9 with linespoints lw 5 title 'Benefício Fiscal 0.64', \
+     data1 using 1:5:9  with filledcurves below title 'Beneficio Fiscal Liq.'
+#+end_src
+
+#+RESULTS:
+[[file:fiscal1.png]]
+
+
+#+begin_src gnuplot :var data1=Custo-BeneficioCompleto :exports code :file fiscal4.png
+set title "BENEFÍCIO Fiscal liq.= R$63,4 bi
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:100]
+
+plot data1 using 1:5 with linespoints lw 5 title 'Custo Fiscal', \
+     data1 using 1:5:10  with filledcurves above title 'Custo Fiscal Liq.', \
+     data1 using 1:10 with linespoints lw 5 title 'Benefício Fiscal (1.3)', \
+     data1 using 1:5:10  with filledcurves below title 'Beneficio Fiscal Liq.'
+#+end_src
+
+#+RESULTS:
+[[file:fiscal4.png]]
+
+
+
+
+
+
+#+begin_src gnuplot :var data1=Custo-BeneficioCompleto :exports code :file fiscalMultiplot.png
+reset
+set style function lines
+set size 1.0, 1.0
+set origin 0.0, 0.0
+set multiplot
+set size 0.5,0.5
+set origin 0.0,0.5
+set grid
+unset key
+
+# Plot versão do parecer do relator
+set title "Custo fiscal: R$284,7 bi"
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set xtics 2007,2,2016
+set ylabel "R$ bilhões 2016"
+set yrange [0:80]
+
+plot data1 using 1:5 with linespoints lw 3 title 'Custo Fiscal', \
+     data1 using 1:5  with filledcurves x1 title 'Custo Fiscal Liq.'
+
+# Plot versão custo = benefício fiscal
+set size 0.5,0.5
+set origin 0.0,0.0
+
+set title "Custo=Benefício,{/Symbol a} = .64"
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:80]
+
+plot data1 using 1:5 with linespoints lw 3 title 'Custo Fiscal', \
+     data1 using 1:5:9  with filledcurves above title 'Custo Fiscal Liq.', \
+     data1 using 1:9 with linespoints lw 3 title 'Benefício Fiscal 0.64', \
+     data1 using 1:5:9  with filledcurves below title 'Beneficio Fiscal Liq.'
+
+# Plot versão ajuste contábil
+set size 0.5,0.5
+set origin 0.5,0.5
+
+set title "Custo fiscal líq.: R$49bi"
+
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:80]
+
+plot data1 using 1:3 with linespoints lw 3 title 'Custo Fiscal', \
+     data1 using 1:3:4  with filledcurves above title 'Custo Fiscal Liq.', \
+     data1 using 1:4 with linespoints lw 3 title 'Benefício Fiscal', \
+     data1 using 1:3:4  with filledcurves below title 'Beneficio Fiscal Liq.'
+
+#  Plot multiplicador 1.3
+set origin .5,0.
+
+set title "Benefício fiscal líquido: R$ 63,4 bi"
+set style fill pattern 2
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:80]
+
+plot data1 using 1:5 with linespoints lw 3 title 'Custo Fiscal', \
+     data1 using 1:5:10  with filledcurves above title 'Custo Fiscal Liq.', \
+     data1 using 1:10 with linespoints lw 3 title 'Benefício Fiscal (1.3)', \
+     data1 using 1:5:10  with filledcurves below title 'Beneficio Fiscal Liq.'
+
+unset multiplot
+#+end_src
+
+#+RESULTS:
+[[file:fiscalMultiplot.png]]
+
+#+CAPTION: Desembolsos do BNDES para FBCF em R$ bilhões de 2016. (Fator de atualização monetária utilizado para calcular valore a reais de 2016. Desembolsos do BNDES para FBCF em R$ bilhões correntes.)
+#+TBLNAME:DesembolsoFBCF
+|  Ano | Investimento ($I$) | Fator de atual Monet (IPCA) | Desembolso FBCF | Impostos+Dividendos |
+|------+--------------------+-----------------------------+-----------------+---------------------|
+| 2007 |              51.50 |             1.7483032004156 |       90.037615 |               4.701 |
+| 2008 |              65.33 |            1.65085762474481 |       107.85053 |              15.687 |
+| 2009 |              98.18 |            1.58262056419834 |       155.38169 |              20.687 |
+| 2010 |              99.21 |            1.49432552069041 |       148.25203 |              21.936 |
+| 2011 |             113.37 |            1.40307838410193 |       159.06700 |              13.458 |
+| 2012 |             126.20 |            1.32567745049751 |       167.30049 |              23.959 |
+| 2013 |             157.07 |            1.25169379796891 |       196.60354 |              15.823 |
+| 2014 |             163.07 |             1.1763213509403 |       191.82272 |              17.728 |
+| 2015 |             120.40 |            1.06287988213221 |       127.97074 |              10.828 |
+| 2016 |              66.67 |                           1 |           66.67 |               8.405 |
+|------+--------------------+-----------------------------+-----------------+---------------------|
+#+TBLFM: $4=$2*$3
+
+#+begin_src gnuplot :var data1=DesembolsoFBCF :exports code :file DesembolsoFBCF.png
+reset
+set title "Desembolso FBCF"
+set xlabel ""
+set xrange [2007:2016]
+set ylabel "R$ bilhões 2016"
+set yrange [0:200]
+
+plot data1 using 1:4 with linespoints lw 5 title 'Desembolso' , \
+     data1 using 1:5  with linespoints lw 5 title 'Dividendos + Tributos'
+#+end_src
+
+#+RESULTS:
+[[file:DesembolsoFBCF.png]]
+
