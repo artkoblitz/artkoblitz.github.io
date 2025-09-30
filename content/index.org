@@ -1,11 +1,7 @@
 #+Title: Arthur Koblitz
 
 
-
-
-* Conselheiro de Administração (BNDES)
-
-Esse site registra minhas atividades como representante dos empregados no Conselho de Administração do BNDES, além de artigos sobre o BNDES, economia e política.
+[[file:FotoFinal.jpeg]]
 
 * Quem sou eu
 
@@ -13,12 +9,16 @@ Arthur Koblitz. Economista do BNDES. Doutor em Economia pelo
 IE/UFRJ. Estou no segundo mandato como conselheiro de
 administração. Sou economista do BNDES e ex-presidente da AFBNDES.
 
+* Conselheiro de Administração (BNDES)
+
+Esse site registra minhas atividades como representante dos empregados no Conselho de Administração do BNDES, além de artigos sobre o BNDES, economia e política.
+
 * Debates
 
 Recentemente organizei um debate entre o André Nassif (economista e aposentado do BNDES) e o André Lara Rezende.
 
-- André Nassif com comentário de André Lara Rezende:[[https://youtu.be/VfJtsSEomno ][Desenvolvimento e Estagnação.]]
+- Link para YouTube do debate entre André Nassif com comentário de André Lara Rezende:[[https://youtu.be/VfJtsSEomno ][Desenvolvimento e Estagnação.]]
 
 * Links 
 
-- [[https://www.bndes.gov.br/wps/wcm/connect/site/77371146-13e2-43a8-bfc8-c6c2150b7c08/Curriculo+-+Arthur+Koblitz.pdf?MOD=AJPERES&CVID=nJqYVah][Currículo]]
+- [[https://www.bndes.gov.br/wps/wcm/connect/site/77371146-13e2-43a8-bfc8-c6c2150b7c08/Curriculo+-+Arthur+Koblitz.pdf?MOD=AJPERES&CVID=nJqYVah][Currículo]] (com link para vários artigos que escrevi em defesa do BNDES)
