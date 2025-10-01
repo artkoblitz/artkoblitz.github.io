@@ -2,6 +2,7 @@
 
 
 [[file:FotoFinal.jpeg]]
+#+ATTR_HTML: :width 200
 
 * Quem sou eu
 
